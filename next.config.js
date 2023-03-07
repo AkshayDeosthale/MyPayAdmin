@@ -1,4 +1,5 @@
-const path = require('path')
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+var path = require('path')
 
 module.exports = {
   trailingSlash: true,
